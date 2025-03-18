@@ -53,9 +53,9 @@ Aquí tienes algunos de los proyectos en los que he trabajado:
 
 ## Estadísticas de GitHub 📊
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=oscarnovillo&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-de-github&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarnovillo&layout=compact&theme=radical)
 
 ## ¡Conéctate conmigo! 🌐
 
